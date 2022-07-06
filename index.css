@@ -1,3 +1,10 @@
+body {
+    background-image: url("subway_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
 h1 {
     margin-top: 10px;
     margin-bottom: 10px;

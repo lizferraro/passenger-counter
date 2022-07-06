@@ -19,4 +19,4 @@ function save() {
     countEl.innerText = count
 }
 
-console.log("Let's count the number of people!")
+console.log("Let's count the number of")
