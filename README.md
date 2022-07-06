@@ -1,6 +1,6 @@
-# "JavaScript Programming - Full Course"
+# "JavaScript Programming - Full Course: Passenger Counter App"
 ## Created by Per Harald Borgen and Presented by FreeCodeCamp (YouTube)
-Link to Source Material: https://www.youtube.com/watch?v=jS4aFq5-91M
+## Link to Source Material: https://www.youtube.com/watch?v=jS4aFq5-91M
 
 "Passenger Counter App"
 Liz Ferraro

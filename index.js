@@ -1,23 +1,22 @@
+let saveEl = document.getElementById("save-el")
 let countEl = document.getElementById("count-el")
-
 let count = 0
 
 function increment() {
-    count = count + 1
-    countEl.innerText = count
-    console.log(count)
+    count += 1
+    countEl.textContent = count
 }
 
-//log out count when called
-
 let countTotal = document.getElementById("count-total")
-
 let total = count
 
 function save() {
-    total = total + count
+    let countStr = count + " - "
+    saveEl.textContent += countStr
+    total += count
     countTotal.innerText = total
-    console.log(total)
     count = 0
     countEl.innerText = count
 }
+
+console.log("Let's count the number of people!")
